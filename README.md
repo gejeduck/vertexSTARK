@@ -53,6 +53,22 @@ Speeding up the protocol using: - Number Theoretic Transform (NTT)\
 - Domain preprocessing\
 - Efficient polynomial operations
 
+### **Pipeline**
+
+![Pipeline](https://aszepieniec.github.io/stark-anatomy/graphics/pipeline.svg)
+
+### **Stark Overview**
+
+![Overview](https://aszepieniec.github.io/stark-anatomy/graphics/stark-overview.svg)
+
+### **Stark Workflow**
+
+![Workflow](https://aszepieniec.github.io/stark-anatomy/graphics/stark-workflow.svg)
+
+### **Rescue Prime Round**
+
+![Round 4](https://aszepieniec.github.io/stark-anatomy/graphics/rescue-prime-round.svg)
+
 ------------------------------------------------------------------------
 
 ## **🤝 Contributing**
